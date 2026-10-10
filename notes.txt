@@ -2,3 +2,4 @@ Welcome to Git and GitHub.
 This is my first Git practical.
 I am learning version control using VS Code.
 Git helps developers track changes and collaborate.
+Update from Developer A.
